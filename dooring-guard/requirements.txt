@@ -1,0 +1,5 @@
+opencv-python>=4.8
+numpy>=1.24
+
+# 可选：换 --engine yolo 才需要
+# ultralytics>=8.3
