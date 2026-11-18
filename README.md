@@ -150,4 +150,4 @@ dooring-guard/
 
 ## License
 
-MIT © 2026 盛浩
+MIT © 2026 majiachaojuedaningmeng
